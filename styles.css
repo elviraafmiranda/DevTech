@@ -44,6 +44,7 @@ a:hover{
 section{
 	width:920px;
 	margin:0 auto;
+	padding:15px;
 }
 
 #post{
@@ -62,3 +63,15 @@ footer{
 	background:#ccc;
 	padding:15px;
 }
+
+.postagem{
+	padding:20px;
+	margin-bottom:20px;
+	background:#fff;
+}
+
+img{
+	width:620px;
+	margin:20px 0px;
+}
+
